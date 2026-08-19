@@ -1,0 +1,1 @@
+# munchmap-automation
